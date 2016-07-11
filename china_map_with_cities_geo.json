@@ -10,7 +10,8 @@
           84.9023,
           41.748
         ],
-        "childNum": 18
+        "childNum": 18,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -633,7 +634,8 @@
           88.7695,
           31.6846
         ],
-        "childNum": 7
+        "childNum": 7,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -1240,7 +1242,8 @@
           117.5977,
           44.3408
         ],
-        "childNum": 12
+        "childNum": 12,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -2159,7 +2162,8 @@
           96.2402,
           35.4199
         ],
-        "childNum": 8
+        "childNum": 8,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -2718,7 +2722,8 @@
           102.9199,
           30.1904
         ],
-        "childNum": 21
+        "childNum": 21,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -3249,7 +3254,8 @@
           128.1445,
           48.5156
         ],
-        "childNum": 13
+        "childNum": 13,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -3752,7 +3758,8 @@
           95.7129,
           40.166
         ],
-        "childNum": 14
+        "childNum": 14,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -4471,7 +4478,8 @@
           101.8652,
           25.1807
         ],
-        "childNum": 16
+        "childNum": 16,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -4994,7 +5002,8 @@
           108.2813,
           23.6426
         ],
-        "childNum": 14
+        "childNum": 14,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -5353,7 +5362,8 @@
           111.5332,
           27.3779
         ],
-        "childNum": 14
+        "childNum": 14,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -5672,7 +5682,8 @@
           109.5996,
           35.6396
         ],
-        "childNum": 10
+        "childNum": 10,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -6027,7 +6038,8 @@
           113.4668,
           22.8076
         ],
-        "childNum": 21
+        "childNum": 21,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -6408,7 +6420,8 @@
           126.4746,
           43.5938
         ],
-        "childNum": 9
+        "childNum": 9,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -6743,7 +6756,8 @@
           115.4004,
           37.9688
         ],
-        "childNum": 11
+        "childNum": 11,
+        "optional": "省"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7204,7 +7218,8 @@
           112.2363,
           31.1572
         ],
-        "childNum": 17
+        "childNum": 17,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -7531,7 +7546,8 @@
           106.6113,
           26.9385
         ],
-        "childNum": 9
+        "childNum": 9,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -7866,7 +7882,8 @@
           118.7402,
           36.4307
         ],
-        "childNum": 17
+        "childNum": 17,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -8145,7 +8162,8 @@
           116.0156,
           27.29
         ],
-        "childNum": 11
+        "childNum": 11,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -8412,7 +8430,8 @@
           113.4668,
           33.8818
         ],
-        "childNum": 17
+        "childNum": 17,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -8683,7 +8702,8 @@
           122.3438,
           41.0889
         ],
-        "childNum": 14
+        "childNum": 14,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -8914,7 +8934,8 @@
           112.4121,
           37.6611
         ],
-        "childNum": 11
+        "childNum": 11,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -9141,7 +9162,8 @@
           117.2461,
           32.0361
         ],
-        "childNum": 17
+        "childNum": 17,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -9432,7 +9454,8 @@
           118.3008,
           25.9277
         ],
-        "childNum": 9
+        "childNum": 9,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -9675,7 +9698,8 @@
           120.498,
           29.0918
         ],
-        "childNum": 11
+        "childNum": 11,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -9882,7 +9906,8 @@
           120.0586,
           32.915
         ],
-        "childNum": 13
+        "childNum": 13,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10125,7 +10150,8 @@
           107.7539,
           30.1904
         ],
-        "childNum": 40
+        "childNum": 40,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10408,7 +10434,8 @@
           105.9961,
           37.3096
         ],
-        "childNum": 5
+        "childNum": 5,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10583,7 +10610,8 @@
           109.9512,
           19.2041
         ],
-        "childNum": 18
+        "childNum": 18,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10678,7 +10706,8 @@
           121.0254,
           23.5986
         ],
-        "childNum": 1
+        "childNum": 1,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10761,7 +10790,8 @@
           116.4551,
           40.2539
         ],
-        "childNum": 19
+        "childNum": 19,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10876,7 +10906,8 @@
           117.4219,
           39.4189
         ],
-        "childNum": 18
+        "childNum": 18,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -10987,7 +11018,8 @@
           121.4648,
           31.2891
         ],
-        "childNum": 19
+        "childNum": 19,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -11046,7 +11078,8 @@
           114.2578,
           22.3242
         ],
-        "childNum": 1
+        "childNum": 1,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -11109,7 +11142,8 @@
           113.5547,
           22.1484
         ],
-        "childNum": 1
+        "childNum": 1,
+        "optional": "省"
       },
       "geometry": {
         "type": "Polygon",
@@ -11148,7 +11182,8 @@
       "properties": {
         "name": "北京",
         "cp": "108.95,34.2",
-        "childNum": "0"
+        "childNum": 0,
+        "optional": "城市"
       },
       "geometry": {
         "type": "Point",
