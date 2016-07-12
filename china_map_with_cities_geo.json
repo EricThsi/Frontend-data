@@ -11192,6 +11192,10716 @@
           39.91816284660943
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNBJ00",
+        "name": "北京",
+        "name_en": "BeiJing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4,
+          39.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNCY",
+        "name": "朝阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.43,
+          39.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNTJ00",
+        "name": "天津",
+        "name_en": "TianJin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          39.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHESJ",
+        "name": "石家庄",
+        "name_en": "ShiJiaZhuang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.52,
+          38.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHETS",
+        "name": "唐山",
+        "name_en": "TangShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.2,
+          39.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEQH",
+        "name": "秦皇岛",
+        "name_en": "QinHuangDao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6,
+          39.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEHD",
+        "name": "邯郸",
+        "name_en": "HanDan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48,
+          36.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEHD",
+        "name": "邯郸",
+        "name_en": "HanDan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.53,
+          36.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEXT",
+        "name": "邢台",
+        "name_en": "XingTai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48,
+          37.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEXT",
+        "name": "邢台",
+        "name_en": "XingTai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5,
+          37.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEBD",
+        "name": "保定",
+        "name_en": "BaoDing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.47,
+          38.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEZJ",
+        "name": "张家口",
+        "name_en": "ZhangJiaKou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.88,
+          40.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHECD",
+        "name": "承德",
+        "name_en": "ChengDe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.93,
+          40.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHECD",
+        "name": "承德",
+        "name_en": "ChengDe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.17,
+          40.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHECZ",
+        "name": "沧州",
+        "name_en": "CangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.83,
+          38.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHELF",
+        "name": "廊坊",
+        "name_en": "LangFang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7,
+          39.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHEHS",
+        "name": "衡水",
+        "name_en": "HengShui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.68,
+          37.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXTY",
+        "name": "太原",
+        "name_en": "TaiYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55,
+          37.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXDT",
+        "name": "大同",
+        "name_en": "DaTong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3,
+          40.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXDT",
+        "name": "大同",
+        "name_en": "DaTong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6,
+          40.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXYQ",
+        "name": "阳泉",
+        "name_en": "YangQuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.57,
+          37.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXCZ",
+        "name": "长治",
+        "name_en": "ChangZhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXCZ",
+        "name": "长治",
+        "name_en": "ChangZhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.03,
+          36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXJC",
+        "name": "晋城",
+        "name_en": "JinCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.83,
+          35.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXSZ",
+        "name": "朔州",
+        "name_en": "SuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.43,
+          39.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXJZ",
+        "name": "晋中",
+        "name_en": "JinZhong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75,
+          37.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXYC",
+        "name": "运城",
+        "name_en": "YunCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.98,
+          35.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXQZ",
+        "name": "忻州",
+        "name_en": "QinZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73,
+          38.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXLF",
+        "name": "临汾",
+        "name_en": "LinFen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.52,
+          36.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXLL",
+        "name": "吕梁",
+        "name_en": "LuLiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.13,
+          37.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMHH",
+        "name": "呼和浩特",
+        "name_en": "HuHeHaoTe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.73,
+          40.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMBT",
+        "name": "包头",
+        "name_en": "BaoTou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.83,
+          40.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMWH",
+        "name": "乌海",
+        "name_en": "WuHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82,
+          39.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHN",
+        "name": "海南",
+        "name_en": "HaiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88,
+          39.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMCF",
+        "name": "赤峰",
+        "name_en": "ChiFeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.92,
+          42.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BH0000",
+        "name": "巴林",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.38,
+          43.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BH0000",
+        "name": "巴林",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.67,
+          43.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMTL",
+        "name": "通辽",
+        "name_en": "TongLiao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27,
+          43.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMEE",
+        "name": "鄂尔多斯",
+        "name_en": "EErDuoSi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.8,
+          39.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMHL",
+        "name": "呼伦贝尔",
+        "name_en": "HuLunBeiEr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.77,
+          49.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMBY",
+        "name": "巴彦淖尔",
+        "name_en": "BaMeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.42,
+          40.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMXA",
+        "name": "兴安盟",
+        "name_en": "XinAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05,
+          46.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMXL",
+        "name": "锡林郭勒",
+        "name_en": "XiLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.07,
+          43.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMAL",
+        "name": "阿拉善",
+        "name_en": "ALaShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.67,
+          38.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMAL",
+        "name": "阿拉善",
+        "name_en": "ALaShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.67,
+          38.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMAL",
+        "name": "阿拉善",
+        "name_en": "ALaShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68,
+          39.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNSY",
+        "name": "沈阳",
+        "name_en": "ShenYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.43,
+          41.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNDL",
+        "name": "大连",
+        "name_en": "DaLian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62,
+          38.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDZS",
+        "name": "中山",
+        "name_en": "ZhongShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63,
+          38.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNAS",
+        "name": "鞍山",
+        "name_en": "AnShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.98,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNFS",
+        "name": "抚顺",
+        "name_en": "FuShun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98,
+          41.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNFS",
+        "name": "抚顺",
+        "name_en": "FuShun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9,
+          41.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNBX",
+        "name": "本溪",
+        "name_en": "BenXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.77,
+          41.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNBX",
+        "name": "本溪",
+        "name_en": "BenXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          41.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNDD",
+        "name": "丹东",
+        "name_en": "DanDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.38,
+          40.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNJZ",
+        "name": "锦州",
+        "name_en": "JinZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.13,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ME0000",
+        "name": "黑山",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.12,
+          41.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNYK",
+        "name": "营口",
+        "name_en": "YingKou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23,
+          40.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNFX",
+        "name": "阜新",
+        "name_en": "FuXin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.67,
+          42.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNFX",
+        "name": "阜新",
+        "name_en": "FuXin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          42.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNLY",
+        "name": "辽阳",
+        "name_en": "LiaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17,
+          41.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNLY",
+        "name": "辽阳",
+        "name_en": "LiaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          41.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNPJ",
+        "name": "盘锦",
+        "name_en": "PanJin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.07,
+          41.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNTL",
+        "name": "铁岭",
+        "name_en": "TieLing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.83,
+          42.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNTL",
+        "name": "铁岭",
+        "name_en": "TieLing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.83,
+          42.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNCY",
+        "name": "朝阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45,
+          41.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNCY",
+        "name": "朝阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47,
+          41.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNJX",
+        "name": "葫芦岛",
+        "name_en": "HuLuDao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.83,
+          40.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLCC",
+        "name": "长春",
+        "name_en": "ChangChun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          43.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNCY",
+        "name": "朝阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          43.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLJL",
+        "name": "吉林",
+        "name_en": "JiLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.55,
+          43.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLSP",
+        "name": "四平",
+        "name_en": "SiPing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.35,
+          43.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLLY",
+        "name": "辽源",
+        "name_en": "LiaoYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAXA",
+        "name": "西安",
+        "name_en": "XiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          42.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLTH",
+        "name": "通化",
+        "name_en": "TongHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          41.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLTH",
+        "name": "通化",
+        "name_en": "TongHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          41.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLBS",
+        "name": "白山",
+        "name_en": "BaiShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          41.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KP0000",
+        "name": "朝鲜",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.2,
+          41.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLSY",
+        "name": "松原",
+        "name_en": "SongYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82,
+          45.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLBC",
+        "name": "白城",
+        "name_en": "BaiCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.83,
+          45.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJLYJ",
+        "name": "延边",
+        "name_en": "YanBian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5,
+          42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KP0000",
+        "name": "朝鲜",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5,
+          42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLHE",
+        "name": "哈尔滨",
+        "name_en": "HaErBin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53,
+          45.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLQQ",
+        "name": "齐齐哈尔",
+        "name_en": "QiQiHaEr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.95,
+          47.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLJX",
+        "name": "鸡西",
+        "name_en": "JiXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.97,
+          45.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLHG",
+        "name": "鹤岗",
+        "name_en": "HeGang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.27,
+          47.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLDQ",
+        "name": "大庆",
+        "name_en": "DaQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          46.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSXDT",
+        "name": "大同",
+        "name_en": "DaTong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82,
+          46.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLYC",
+        "name": "伊春",
+        "name_en": "YiChun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.9,
+          47.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLJM",
+        "name": "佳木斯",
+        "name_en": "JiaMuSi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.37,
+          46.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLQT",
+        "name": "七台河",
+        "name_en": "QiTaiHe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.95,
+          45.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLMD",
+        "name": "牡丹江",
+        "name_en": "MuDanJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.6,
+          44.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAXA",
+        "name": "西安",
+        "name_en": "XiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.62,
+          44.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLHH",
+        "name": "黑河",
+        "name_en": "HeiHe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48,
+          50.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNDL",
+        "name": "大连",
+        "name_en": "DaLian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          48.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLSH",
+        "name": "绥化",
+        "name_en": "SuiHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98,
+          46.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLDX",
+        "name": "大兴安岭",
+        "name_en": "DaQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          50.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSH00",
+        "name": "上海",
+        "name_en": "ShangHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          31.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSNJ",
+        "name": "南京",
+        "name_en": "NanJing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78,
+          32.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSWX",
+        "name": "无锡",
+        "name_en": "WuXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3,
+          31.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSXZ",
+        "name": "徐州",
+        "name_en": "XuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18,
+          34.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSCZ",
+        "name": "常州",
+        "name_en": "ChangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          31.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSSZ",
+        "name": "苏州",
+        "name_en": "SuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          31.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSNT",
+        "name": "南通",
+        "name_en": "NanTong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88,
+          31.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSLY",
+        "name": "连云港",
+        "name_en": "LianYunGang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.22,
+          34.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSHA",
+        "name": "淮安",
+        "name_en": "HuaiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.02,
+          33.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSYC",
+        "name": "盐城",
+        "name_en": "YanCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15,
+          33.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSYZ",
+        "name": "扬州",
+        "name_en": "YangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4,
+          32.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSZJ",
+        "name": "镇江",
+        "name_en": "ZhenJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45,
+          32.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSTZ",
+        "name": "泰州",
+        "name_en": "TaiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92,
+          32.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJSSQ",
+        "name": "宿迁",
+        "name_en": "SuQian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.28,
+          33.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJHZ",
+        "name": "杭州",
+        "name_en": "HangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15,
+          30.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJNB",
+        "name": "宁波",
+        "name_en": "NingBo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55,
+          29.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJWZ",
+        "name": "温州",
+        "name_en": "Wenzhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJJX",
+        "name": "嘉兴",
+        "name_en": "JiaXing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75,
+          30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJHU",
+        "name": "湖州",
+        "name_en": "HuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.08,
+          30.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJSX",
+        "name": "绍兴",
+        "name_en": "ShaoXing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57,
+          30
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJSX",
+        "name": "绍兴",
+        "name_en": "ShaoXing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47,
+          30.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJJH",
+        "name": "金华",
+        "name_en": "JinHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.65,
+          29.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJQZ",
+        "name": "衢州",
+        "name_en": "QuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.87,
+          28.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJZS",
+        "name": "舟山",
+        "name_en": "ZhouShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2,
+          30
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJTZ",
+        "name": "台州",
+        "name_en": "Taizhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43,
+          28.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJLS",
+        "name": "丽水",
+        "name_en": "LiShui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92,
+          28.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHF",
+        "name": "合肥",
+        "name_en": "HeFei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.25,
+          31.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHWH",
+        "name": "芜湖",
+        "name_en": "WuHu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.38,
+          31.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHWH",
+        "name": "芜湖",
+        "name_en": "WuHu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.57,
+          31.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHBB",
+        "name": "蚌埠",
+        "name_en": "BengBu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.38,
+          32.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHN",
+        "name": "淮南",
+        "name_en": "HuaiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117,
+          32.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHMA",
+        "name": "马鞍山",
+        "name_en": "MaAnShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5,
+          31.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLNAS",
+        "name": "鞍山",
+        "name_en": "AnShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5,
+          31.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHB",
+        "name": "淮北",
+        "name_en": "HuaiBei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8,
+          33.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHTL",
+        "name": "铜陵",
+        "name_en": "TongLing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.82,
+          30.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHTL",
+        "name": "铜陵",
+        "name_en": "TongLing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.78,
+          30.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHAQ",
+        "name": "安庆",
+        "name_en": "AnQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05,
+          30.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHS",
+        "name": "黄山",
+        "name_en": "HuangShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33,
+          29.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHS",
+        "name": "黄山",
+        "name_en": "HuangShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13,
+          30.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHCZ",
+        "name": "滁州",
+        "name_en": "ChuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.32,
+          32.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHFY",
+        "name": "阜阳",
+        "name_en": "FuYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.82,
+          32.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHSZ",
+        "name": "宿州",
+        "name_en": "SuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.98,
+          33.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHCH",
+        "name": "巢湖",
+        "name_en": "ChaoHu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.87,
+          31.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHLA",
+        "name": "六安",
+        "name_en": "LiuAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5,
+          31.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHCO",
+        "name": "池州",
+        "name_en": "ChiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.48,
+          30.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHXC",
+        "name": "宣城",
+        "name_en": "XuanCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75,
+          30.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJFZ",
+        "name": "福州",
+        "name_en": "FuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.3,
+          26.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJXM",
+        "name": "厦门",
+        "name_en": "XiaMen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08,
+          24.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJPT",
+        "name": "莆田",
+        "name_en": "PuTian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          25.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJSM",
+        "name": "三明",
+        "name_en": "SanMing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.62,
+          26.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJQZ",
+        "name": "泉州",
+        "name_en": "QuanZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.67,
+          24.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJZZ",
+        "name": "漳州",
+        "name_en": "ZhangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.65,
+          24.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJNP",
+        "name": "南平",
+        "name_en": "NanPing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.17,
+          26.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJLY",
+        "name": "龙岩",
+        "name_en": "LongYan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.03,
+          25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJND",
+        "name": "宁德",
+        "name_en": "NingDe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.52,
+          26.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXNC",
+        "name": "南昌",
+        "name_en": "NanChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.85,
+          28.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXNC",
+        "name": "南昌",
+        "name_en": "NanChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.93,
+          28.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXJD",
+        "name": "景德镇",
+        "name_en": "JingDeZhen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17,
+          29.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHICJ",
+        "name": "昌江",
+        "name_en": "ChangJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17,
+          29.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXPX",
+        "name": "萍乡",
+        "name_en": "PingXiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.85,
+          27.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXJJ",
+        "name": "九江",
+        "name_en": "JiuJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116,
+          29.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXJJ",
+        "name": "九江",
+        "name_en": "JiuJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.88,
+          29.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXXY",
+        "name": "新余",
+        "name_en": "XinYu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92,
+          27.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXYT",
+        "name": "鹰潭",
+        "name_en": "YingTan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.07,
+          28.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXGZ",
+        "name": "赣州",
+        "name_en": "GanZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.93,
+          25.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXJA",
+        "name": "吉安",
+        "name_en": "JiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.98,
+          27.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXJA",
+        "name": "吉安",
+        "name_en": "JiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9,
+          27.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXYC",
+        "name": "宜春",
+        "name_en": "YiChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.38,
+          27.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXFZ",
+        "name": "抚州",
+        "name_en": "FuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.35,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXSR",
+        "name": "上饶",
+        "name_en": "ShangRao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.97,
+          28.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJXSR",
+        "name": "上饶",
+        "name_en": "ShangRao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.92,
+          28.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDJN",
+        "name": "济南",
+        "name_en": "JiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.98,
+          36.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDQD",
+        "name": "青岛",
+        "name_en": "QingDao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38,
+          36.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDZB",
+        "name": "淄博",
+        "name_en": "ZiBo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.05,
+          36.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDZZ",
+        "name": "枣庄",
+        "name_en": "ZaoZhuang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.32,
+          34.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDDY",
+        "name": "东营",
+        "name_en": "DongYing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.67,
+          37.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDDY",
+        "name": "东营",
+        "name_en": "DongYing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5,
+          37.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDYT",
+        "name": "烟台",
+        "name_en": "YanTai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDWF",
+        "name": "潍坊",
+        "name_en": "WeiFang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.15,
+          36.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDJI",
+        "name": "济宁",
+        "name_en": "JiNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.58,
+          35.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDTA",
+        "name": "泰安",
+        "name_en": "TaiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.08,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDWH",
+        "name": "威海",
+        "name_en": "WeiHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.12,
+          37.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDRZ",
+        "name": "日照",
+        "name_en": "RiZhao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.52,
+          35.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDLW",
+        "name": "莱芜",
+        "name_en": "LaiWu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.67,
+          36.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDLY",
+        "name": "临沂",
+        "name_en": "LinYi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.35,
+          35.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDDZ",
+        "name": "德州",
+        "name_en": "DeZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDLC",
+        "name": "聊城",
+        "name_en": "LiaoCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.98,
+          36.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDBZ",
+        "name": "滨州",
+        "name_en": "BingZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.97,
+          37.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAZZ",
+        "name": "郑州",
+        "name_en": "ZhengZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.62,
+          34.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAKF",
+        "name": "开封",
+        "name_en": "KaiFeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3,
+          34.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAKF",
+        "name": "开封",
+        "name_en": "KaiFeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.43,
+          34.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHALY",
+        "name": "洛阳",
+        "name_en": "LuoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          34.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAPD",
+        "name": "平顶山",
+        "name_en": "PingDingShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.18,
+          33.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAAY",
+        "name": "安阳",
+        "name_en": "AnYan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.38,
+          36.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAAY",
+        "name": "安阳",
+        "name_en": "AnYan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.35,
+          36.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAHB",
+        "name": "鹤壁",
+        "name_en": "HeBi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28,
+          35.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAXX",
+        "name": "新乡",
+        "name_en": "XinXiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9,
+          35.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAXX",
+        "name": "新乡",
+        "name_en": "XinXiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          35.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAJZ",
+        "name": "焦作",
+        "name_en": "JiaoZuo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25,
+          35.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAJY",
+        "name": "济源",
+        "name_en": "JiYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.58,
+          35.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAPY",
+        "name": "濮阳",
+        "name_en": "PuYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.03,
+          35.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAPY",
+        "name": "濮阳",
+        "name_en": "PuYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.02,
+          35.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAXC",
+        "name": "许昌",
+        "name_en": "XuChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.85,
+          34.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAXC",
+        "name": "许昌",
+        "name_en": "XuChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83,
+          34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHALH",
+        "name": "漯河",
+        "name_en": "LuoHe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.02,
+          33.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHASM",
+        "name": "三门峡",
+        "name_en": "SanMenXia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2,
+          34.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHANY",
+        "name": "南阳",
+        "name_en": "NanYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52,
+          33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHASQ",
+        "name": "商丘",
+        "name_en": "ShangQiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.65,
+          34.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAXY",
+        "name": "信阳",
+        "name_en": "XinYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.07,
+          32.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAZK",
+        "name": "周口",
+        "name_en": "ZhouKou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.65,
+          33.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHAZM",
+        "name": "驻马店",
+        "name_en": "ZhuMaDian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.02,
+          32.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBWH",
+        "name": "武汉",
+        "name_en": "WuHan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3,
+          30.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBHS",
+        "name": "黄石",
+        "name_en": "HuangShi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.03,
+          30.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBHS",
+        "name": "黄石",
+        "name_en": "HuangShi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.07,
+          30.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBSY",
+        "name": "十堰",
+        "name_en": "ShiYan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.78,
+          32.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBYC",
+        "name": "宜昌",
+        "name_en": "YiChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.28,
+          30.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBXF",
+        "name": "襄樊",
+        "name_en": "XiangFan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.15,
+          32.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBEZ",
+        "name": "鄂州",
+        "name_en": "Ezhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.88,
+          30.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBJM",
+        "name": "荆门",
+        "name_en": "JingMen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.2,
+          31.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBXG",
+        "name": "孝感",
+        "name_en": "XiaoGan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92,
+          30.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBJZ",
+        "name": "荆州",
+        "name_en": "JingZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.23,
+          30.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBJZ",
+        "name": "荆州",
+        "name_en": "JingZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.18,
+          30.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBHG",
+        "name": "黄冈",
+        "name_en": "HuangGang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.87,
+          30.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBXN",
+        "name": "咸宁",
+        "name_en": "XianNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          29.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBSZ",
+        "name": "随州",
+        "name_en": "SuiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.37,
+          31.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBES",
+        "name": "恩施",
+        "name_en": "EnShi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.47,
+          30.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBES",
+        "name": "恩施",
+        "name_en": "EnShi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.47,
+          30.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBXT",
+        "name": "仙桃",
+        "name_en": "XianTao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.45,
+          30.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBQJ",
+        "name": "潜江",
+        "name_en": "QianJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.88,
+          30.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBTM",
+        "name": "天门",
+        "name_en": "TianMen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.17,
+          30.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHBSN",
+        "name": "神农架林区",
+        "name_en": "ShenNongJiaLinQu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.67,
+          31.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNCS",
+        "name": "长沙",
+        "name_en": "ChangSha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.93,
+          28.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNCS",
+        "name": "长沙",
+        "name_en": "ChangSha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.07,
+          28.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNZZ",
+        "name": "株洲",
+        "name_en": "ZhuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.13,
+          27.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNZZ",
+        "name": "株洲",
+        "name_en": "ZhuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.13,
+          27.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNXT",
+        "name": "湘潭",
+        "name_en": "XiangTan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.93,
+          27.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNXT",
+        "name": "湘潭",
+        "name_en": "XiangTan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.95,
+          27.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNHY",
+        "name": "衡阳",
+        "name_en": "HengYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57,
+          26.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNHY",
+        "name": "衡阳",
+        "name_en": "HengYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.37,
+          26.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNSY",
+        "name": "邵阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.47,
+          27.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNSY",
+        "name": "邵阳",
+        "name_en": "ChaoYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.27,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNYY",
+        "name": "岳阳",
+        "name_en": "YueYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12,
+          29.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNYY",
+        "name": "岳阳",
+        "name_en": "YueYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1,
+          29.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNYY",
+        "name": "岳阳",
+        "name_en": "YueYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12,
+          29.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNCD",
+        "name": "常德",
+        "name_en": "ChangDe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.68,
+          29.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNZJ",
+        "name": "张家界",
+        "name_en": "ZhangJiaJie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47,
+          29.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNIY",
+        "name": "益阳",
+        "name_en": "YiYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.32,
+          28.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCZY",
+        "name": "资阳",
+        "name_en": "ZiYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.32,
+          28.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNCZ",
+        "name": "郴州",
+        "name_en": "ChenZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.02,
+          25.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNYZ",
+        "name": "永州",
+        "name_en": "YongZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.62,
+          26.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNHH",
+        "name": "怀化",
+        "name_en": "HuaiHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110,
+          27.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNLD",
+        "name": "娄底",
+        "name_en": "LouDi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112,
+          27.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDGZ",
+        "name": "广州",
+        "name_en": "GuangZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.27,
+          23.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDSG",
+        "name": "韶关",
+        "name_en": "ShaoGuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6,
+          24.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDSZ",
+        "name": "深圳",
+        "name_en": "ShenZhen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.05,
+          22.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDZH",
+        "name": "珠海",
+        "name_en": "ZhuHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.57,
+          22.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDST",
+        "name": "汕头",
+        "name_en": "ShanTou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68,
+          23.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDFS",
+        "name": "佛山",
+        "name_en": "FoShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12,
+          23.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDJM",
+        "name": "江门",
+        "name_en": "JiangMen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.08,
+          22.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDZJ",
+        "name": "湛江",
+        "name_en": "ZhanJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35,
+          21.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDMM",
+        "name": "茂名",
+        "name_en": "MaoMing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.92,
+          21.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDZQ",
+        "name": "肇庆",
+        "name_en": "ZhaoQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.47,
+          23.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDHZ",
+        "name": "惠州",
+        "name_en": "HuiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.42,
+          23.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDMZ",
+        "name": "梅州",
+        "name_en": "MeiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.12,
+          24.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDSW",
+        "name": "汕尾",
+        "name_en": "ShanWei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.37,
+          22.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDHY",
+        "name": "河源",
+        "name_en": "HeYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7,
+          23.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDYJ",
+        "name": "阳江",
+        "name_en": "YangJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.98,
+          21.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDQY",
+        "name": "清远",
+        "name_en": "QingYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.03,
+          23.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDDG",
+        "name": "东莞",
+        "name_en": "DongGuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75,
+          23.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDZS",
+        "name": "中山",
+        "name_en": "ZhongShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.38,
+          22.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDCZ",
+        "name": "潮州",
+        "name_en": "ChaoZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.62,
+          23.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDJY",
+        "name": "揭阳",
+        "name_en": "JieYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.37,
+          23.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGDYF",
+        "name": "云浮",
+        "name_en": "YunFu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.03,
+          22.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXNN",
+        "name": "南宁",
+        "name_en": "NanNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.37,
+          22.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXLZ",
+        "name": "柳州",
+        "name_en": "LiuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.42,
+          24.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXGL",
+        "name": "桂林",
+        "name_en": "GuiLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.28,
+          25.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXWZ",
+        "name": "梧州",
+        "name_en": "WuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.27,
+          23.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXBH",
+        "name": "北海",
+        "name_en": "BeiHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.12,
+          21.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXFC",
+        "name": "防城港",
+        "name_en": "FangCheng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35,
+          21.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXQZ",
+        "name": "钦州",
+        "name_en": "QinZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.62,
+          21.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXGG",
+        "name": "贵港",
+        "name_en": "GuiGang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6,
+          23.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXYL",
+        "name": "玉林",
+        "name_en": "YuLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.17,
+          22.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXBS",
+        "name": "百色",
+        "name_en": "BoSe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62,
+          23.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXHZ",
+        "name": "贺州",
+        "name_en": "HeZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.55,
+          24.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXHC",
+        "name": "河池",
+        "name_en": "HeChi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.07,
+          24.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXLB",
+        "name": "来宾",
+        "name_en": "LaiBin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.23,
+          23.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGXCZ",
+        "name": "崇左",
+        "name_en": "ChongZuo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.37,
+          22.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIHK",
+        "name": "海口",
+        "name_en": "HaiKou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32,
+          20.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIQS",
+        "name": "琼山",
+        "name_en": "QiongShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35,
+          20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHISY",
+        "name": "三亚",
+        "name_en": "SanYa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5,
+          18.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIQH",
+        "name": "琼海",
+        "name_en": "QiongHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47,
+          19.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIDZ",
+        "name": "儋州",
+        "name_en": "DanZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.57,
+          19.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIWC",
+        "name": "文昌",
+        "name_en": "WenChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8,
+          19.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIWN",
+        "name": "万宁",
+        "name_en": "WanNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4,
+          18.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIDF",
+        "name": "东方",
+        "name_en": "Dongfang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.63,
+          19.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIDC",
+        "name": "屯昌",
+        "name_en": "TunChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1,
+          19.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIDM",
+        "name": "澄迈",
+        "name_en": "ChengMai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110,
+          19.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHILG",
+        "name": "临高",
+        "name_en": "LinGao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.68,
+          19.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIBS",
+        "name": "白沙",
+        "name_en": "BaiSha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.45,
+          19.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHICJ",
+        "name": "昌江",
+        "name_en": "ChangJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.05,
+          19.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHILD",
+        "name": "乐东",
+        "name_en": "LeDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.17,
+          18.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHILS",
+        "name": "陵水",
+        "name_en": "LingShui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.03,
+          18.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIBT",
+        "name": "保亭",
+        "name_en": "BaoTing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.7,
+          18.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIQZ",
+        "name": "琼中",
+        "name_en": "QiongZhong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.83,
+          19.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNCQ00",
+        "name": "重庆",
+        "name_en": "ChongQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.55,
+          29.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCCD",
+        "name": "成都",
+        "name_en": "ChengDu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07,
+          30.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCZG",
+        "name": "自贡",
+        "name_en": "ZiGong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.78,
+          29.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCPZ",
+        "name": "攀枝花",
+        "name_en": "PanZhiHua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.72,
+          26.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCLZ",
+        "name": "泸州",
+        "name_en": "LuZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.43,
+          28.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCDY",
+        "name": "德阳",
+        "name_en": "DeYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.38,
+          31.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCMY",
+        "name": "绵阳",
+        "name_en": "MianYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.73,
+          31.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCGY",
+        "name": "广元",
+        "name_en": "GuangYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83,
+          32.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCSN",
+        "name": "遂宁",
+        "name_en": "SuiNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.57,
+          30.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCNJ",
+        "name": "内江",
+        "name_en": "NeiJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.05,
+          29.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCLS",
+        "name": "乐山",
+        "name_en": "LeShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77,
+          29.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCMS",
+        "name": "眉山",
+        "name_en": "MeiShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.48,
+          29.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCNC",
+        "name": "南充",
+        "name_en": "NanChong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.08,
+          30.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCMS",
+        "name": "眉山",
+        "name_en": "MeiShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83,
+          30.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCYB",
+        "name": "宜宾",
+        "name_en": "YiBin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.62,
+          28.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCYB",
+        "name": "宜宾",
+        "name_en": "YiBin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.55,
+          28.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCGA",
+        "name": "广安",
+        "name_en": "GuangAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          30.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCDZ",
+        "name": "达州",
+        "name_en": "DaZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5,
+          31.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCYA",
+        "name": "雅安",
+        "name_en": "YaAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103,
+          29.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCBZ",
+        "name": "巴中",
+        "name_en": "BaZhong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77,
+          31.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCZY",
+        "name": "资阳",
+        "name_en": "ZiYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.65,
+          30.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCAB",
+        "name": "阿坝",
+        "name_en": "ABei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.22,
+          31.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCAB",
+        "name": "阿坝",
+        "name_en": "ABei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7,
+          32.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZGY",
+        "name": "贵阳",
+        "name_en": "GuiYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          26.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZLP",
+        "name": "六盘水",
+        "name_en": "LiuPanShui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.83,
+          26.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZZY",
+        "name": "遵义",
+        "name_en": "ZunYi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92,
+          27.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZZY",
+        "name": "遵义",
+        "name_en": "ZunYi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83,
+          27.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZAS",
+        "name": "安顺",
+        "name_en": "AnShun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95,
+          26.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZTR",
+        "name": "铜仁",
+        "name_en": "TongRn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.18,
+          27.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZTR",
+        "name": "铜仁",
+        "name_en": "TongRn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.18,
+          27.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZBJ",
+        "name": "毕节",
+        "name_en": "BiJie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28,
+          27.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZBJ",
+        "name": "毕节",
+        "name_en": "BiJie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28,
+          27.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNKM",
+        "name": "昆明",
+        "name_en": "KunMing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.72,
+          25.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNQJ",
+        "name": "曲靖",
+        "name_en": "QuJing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8,
+          25.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNYX",
+        "name": "玉溪",
+        "name_en": "YuXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.55,
+          24.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNBS",
+        "name": "保山",
+        "name_en": "BaoShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.17,
+          25.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNZT",
+        "name": "昭通",
+        "name_en": "ZhaoTong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72,
+          27.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNLJ",
+        "name": "丽江",
+        "name_en": "LiJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23,
+          26.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNLC",
+        "name": "临沧",
+        "name_en": "LinCang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.08,
+          23.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNCX",
+        "name": "楚雄",
+        "name_en": "ChuXiong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.55,
+          25.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNCX",
+        "name": "楚雄",
+        "name_en": "ChuXiong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.55,
+          25.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNWS",
+        "name": "文山",
+        "name_en": "WenShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25,
+          23.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNWS",
+        "name": "文山",
+        "name_en": "WenShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25,
+          23.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNXS",
+        "name": "西双版纳",
+        "name_en": "XiShuangBanNa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8,
+          22.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNDL",
+        "name": "大理",
+        "name_en": "DaLi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23,
+          25.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNDL",
+        "name": "大理",
+        "name_en": "DaLi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23,
+          25.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNNJ",
+        "name": "怒江",
+        "name_en": "NuJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.85,
+          25.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNDQ",
+        "name": "迪庆",
+        "name_en": "DiQing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.7,
+          27.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZLS",
+        "name": "拉萨",
+        "name_en": "LaSa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.13,
+          29.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZCD",
+        "name": "昌都",
+        "name_en": "ChangDu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.18,
+          31.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZCD",
+        "name": "昌都",
+        "name_en": "ChangDu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.18,
+          31.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZSN",
+        "name": "山南",
+        "name_en": "ShanNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77,
+          29.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZRG",
+        "name": "日喀则",
+        "name_en": "RiKaZe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.88,
+          29.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZRG",
+        "name": "日喀则",
+        "name_en": "RiKaZe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.88,
+          29.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZNQ",
+        "name": "那曲",
+        "name_en": "NaQu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.07,
+          31.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZNQ",
+        "name": "那曲",
+        "name_en": "NaQu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.07,
+          31.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZAL",
+        "name": "阿里",
+        "name_en": "Ali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1,
+          32.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZLZ",
+        "name": "林芝",
+        "name_en": "LinZhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.37,
+          29.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZLZ",
+        "name": "林芝",
+        "name_en": "LinZhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.37,
+          29.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAXA",
+        "name": "西安",
+        "name_en": "XiAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93,
+          34.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXATC",
+        "name": "铜川",
+        "name_en": "TongChuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93,
+          34.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXABJ",
+        "name": "宝鸡",
+        "name_en": "BaoJi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.13,
+          34.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAXY",
+        "name": "咸阳",
+        "name_en": "XianYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7,
+          34.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAWN",
+        "name": "渭南",
+        "name_en": "WeiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5,
+          34.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAYA",
+        "name": "延安",
+        "name_en": "YanAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.48,
+          36.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAHZ",
+        "name": "汉中",
+        "name_en": "HanZhong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.02,
+          33.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAYL",
+        "name": "榆林",
+        "name_en": "YuLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.73,
+          38.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXAAK",
+        "name": "安康",
+        "name_en": "AnKang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.02,
+          32.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXASL",
+        "name": "商洛",
+        "name_en": "ShangLuo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.93,
+          33.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSLZ",
+        "name": "兰州",
+        "name_en": "LanZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82,
+          36.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSJY",
+        "name": "嘉峪关",
+        "name_en": "JiaYuGuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.27,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSTS",
+        "name": "天水",
+        "name_en": "TianShui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.72,
+          34.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSJQ",
+        "name": "酒泉",
+        "name_en": "JiuQuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.52,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIAD",
+        "name": "安定",
+        "name_en": "AnDing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.62,
+          35.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHXN",
+        "name": "西宁",
+        "name_en": "XiNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.78,
+          36.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHD",
+        "name": "海东",
+        "name_en": "HaiDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.12,
+          36.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHB",
+        "name": "海北",
+        "name_en": "HaiBei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9,
+          36.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHH",
+        "name": "黄南",
+        "name_en": "HuangNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.02,
+          35.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHN",
+        "name": "海南",
+        "name_en": "HaiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.62,
+          36.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHGL",
+        "name": "果洛",
+        "name_en": "GuoLuo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23,
+          34.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHYS",
+        "name": "玉树",
+        "name_en": "YuShu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.02,
+          33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHYS",
+        "name": "玉树",
+        "name_en": "YuShu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.02,
+          33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHHX",
+        "name": "海西",
+        "name_en": "HaiXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.37,
+          37.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQHGE",
+        "name": "格尔木",
+        "name_en": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9,
+          36.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNXYC",
+        "name": "银川",
+        "name_en": "YinChuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28,
+          38.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNXSZ",
+        "name": "石嘴山",
+        "name_en": "ShiZuiShan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38,
+          39.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNXWZ",
+        "name": "吴忠",
+        "name_en": "WuZhong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2,
+          37.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNXGY",
+        "name": "固原",
+        "name_en": "GuYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28,
+          36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNXZW",
+        "name": "中卫",
+        "name_en": "ZhongWei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.18,
+          37.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJWL",
+        "name": "乌鲁木齐",
+        "name_en": "WuLuMuQi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.62,
+          43.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJWL",
+        "name": "乌鲁木齐",
+        "name_en": "WuLuMuQi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6,
+          43.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJKL",
+        "name": "克拉玛依",
+        "name_en": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87,
+          45.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJKL",
+        "name": "克拉玛依",
+        "name_en": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87,
+          45.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJTL",
+        "name": "吐鲁番",
+        "name_en": "TuLuFan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17,
+          42.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJTL",
+        "name": "吐鲁番",
+        "name_en": "TuLuFan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17,
+          42.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJHM",
+        "name": "哈密",
+        "name_en": "HaMi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.52,
+          42.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJHM",
+        "name": "哈密",
+        "name_en": "HaMi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.52,
+          42.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJCJ",
+        "name": "昌吉",
+        "name_en": "Changji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3,
+          44.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJCJ",
+        "name": "昌吉",
+        "name_en": "Changji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3,
+          44.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJBY",
+        "name": "巴音",
+        "name_en": "BaZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.15,
+          41.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJEK",
+        "name": "阿克苏",
+        "name_en": "AKeSu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27,
+          41.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJEK",
+        "name": "阿克苏",
+        "name_en": "AKeSu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27,
+          41.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJKS",
+        "name": "喀什",
+        "name_en": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.98,
+          39.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJKS",
+        "name": "喀什",
+        "name_en": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.98,
+          39.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJHT",
+        "name": "和田",
+        "name_en": "HeTian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92,
+          37.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJHT",
+        "name": "和田",
+        "name_en": "HeTian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92,
+          37.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJHT",
+        "name": "和田",
+        "name_en": "HeTian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.93,
+          37.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJTC",
+        "name": "塔城",
+        "name_en": "ShiHeZi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.98,
+          46.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJTC",
+        "name": "塔城",
+        "name_en": "ShiHeZi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.98,
+          46.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJAL",
+        "name": "阿勒泰",
+        "name_en": "ALeTai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.13,
+          47.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJAL",
+        "name": "阿勒泰",
+        "name_en": "ALeTai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.13,
+          47.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJSH",
+        "name": "石河子",
+        "name_en": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.03,
+          44.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJAE",
+        "name": "阿拉尔",
+        "name_en": "ALaEr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.28,
+          40.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJTM",
+        "name": "图木舒克",
+        "name_en": "TuMuShuKe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13,
+          39.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJWJ",
+        "name": "五家渠",
+        "name_en": "WuJaQu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.53,
+          44.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHK00",
+        "name": "香港",
+        "name_en": "HongKong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.08,
+          22.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNMO00",
+        "name": "澳门",
+        "name_en": "Macao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.33,
+          22.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CN0000",
+        "name": "中国其他",
+        "name_en": "Hhina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.24,
+          39.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAH00",
+        "name": "安徽",
+        "name_en": "AnHui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17,
+          31.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNAHHZ",
+        "name": "毫州",
+        "name_en": "HaoZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.32,
+          32.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNFJ00",
+        "name": "福建",
+        "name_en": "FuJian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.18,
+          26.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGD00",
+        "name": "广东",
+        "name_en": "GuangDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.14,
+          23.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGS00",
+        "name": "甘肃",
+        "name_en": "GanSu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51,
+          36.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSBY",
+        "name": "白银市",
+        "name_en": "BaiYin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.12,
+          36.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSDX",
+        "name": "定西地区",
+        "name_en": "DingXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62,
+          34.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSGN",
+        "name": "甘南州",
+        "name_en": "GanNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.98,
+          34.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSJC",
+        "name": "金昌市",
+        "name_en": "JinChang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.19,
+          38.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSLN",
+        "name": "陇南地区",
+        "name_en": "LongNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93,
+          33.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSLX",
+        "name": "临夏州",
+        "name_en": "LinXia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.22,
+          35.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSPL",
+        "name": "平凉地区",
+        "name_en": "PingLiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67,
+          35.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSQY",
+        "name": "庆阳地区",
+        "name_en": "QingYang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65,
+          35.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSWW",
+        "name": "武威地区",
+        "name_en": "WuWei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.64,
+          37.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGSZY",
+        "name": "张掖地区",
+        "name_en": "ZhangYe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46,
+          38.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGX00",
+        "name": "广西",
+        "name_en": "GuangXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.49,
+          22.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZ00",
+        "name": "贵州",
+        "name_en": "GuiZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42,
+          26.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZQN",
+        "name": "黔南州",
+        "name_en": "QianNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.53,
+          26.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZQD",
+        "name": "黔东南州",
+        "name_en": "QianDongNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.99,
+          26.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHA00",
+        "name": "河南",
+        "name_en": "HeNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4,
+          34.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHB00",
+        "name": "湖北",
+        "name_en": "HuBei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17,
+          30.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHE00",
+        "name": "河北",
+        "name_en": "HeBei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48,
+          38.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHI00",
+        "name": "海南",
+        "name_en": "HaiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2,
+          20.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHL00",
+        "name": "黑龙江",
+        "name_en": "HeiLongJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHLSY",
+        "name": "绥远",
+        "name_en": "SuiYuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99,
+          46.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHN00",
+        "name": "湖南",
+        "name_en": "HuNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.94,
+          28.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHNXX",
+        "name": "湘西州",
+        "name_en": "XiangXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.74,
+          28.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJL00",
+        "name": "吉林",
+        "name_en": "JiLin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          43.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJS00",
+        "name": "江苏",
+        "name_en": "JiangSu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          31.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNJX00",
+        "name": "江西",
+        "name_en": "JiangXi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.55,
+          28.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNLN00",
+        "name": "辽宁",
+        "name_en": "LiaoNing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.43,
+          41.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNM00",
+        "name": "内蒙古",
+        "name_en": "NeiMengGu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.77,
+          40.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNMWM",
+        "name": "乌盟",
+        "name_en": "WuMeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.66,
+          40.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNNX00",
+        "name": "宁夏",
+        "name_en": "NingXia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26,
+          38.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNQH00",
+        "name": "青海",
+        "name_en": "QingHai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.78,
+          36.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSC00",
+        "name": "四川",
+        "name_en": "SiChuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08,
+          30.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCGZ",
+        "name": "甘孜州",
+        "name_en": "GanZi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.96,
+          30.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSCXC",
+        "name": "凉山州",
+        "name_en": "LiangShanZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.27,
+          27.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSD00",
+        "name": "山东",
+        "name_en": "ShanDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.02,
+          36.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSDHZ",
+        "name": "菏泽",
+        "name_en": "HeZe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26,
+          35.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNSX00",
+        "name": "山西",
+        "name_en": "Shanxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3,
+          40.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNTW00",
+        "name": "台湾",
+        "name_en": "Taiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3,
+          25.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXA00",
+        "name": "陕西",
+        "name_en": "Shaanxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94,
+          34.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJ00",
+        "name": "新疆",
+        "name_en": "XiJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.62,
+          43.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJYL",
+        "name": "伊犁州",
+        "name_en": "YiLi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.33,
+          43.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXZ00",
+        "name": "西藏",
+        "name_en": "XiZang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.12,
+          29.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYN00",
+        "name": "云南",
+        "name_en": "YunNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27,
+          25.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNDH",
+        "name": "德宏州",
+        "name_en": "DeHong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.59,
+          24.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNHH",
+        "name": "红河州",
+        "name_en": "HongHe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.38,
+          23.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNYNSM",
+        "name": "思茅",
+        "name_en": "SiMao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.98,
+          22.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNZJ00",
+        "name": "浙江",
+        "name_en": "ZheJiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16,
+          30.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNGZQX",
+        "name": "黔西南州",
+        "name_en": "QianXiNan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91,
+          25.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHITS",
+        "name": "通什",
+        "name_en": "TongShe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.52,
+          18.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJBE",
+        "name": "博州",
+        "name_en": "BoZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.07,
+          44.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNXJKE",
+        "name": "克州",
+        "name_en": "KeZhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.54,
+          41.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CNHIXN",
+        "name": "永兴岛",
+        "name_en": "YongXing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.33,
+          16.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "000000",
+        "name": "其他",
+        "name_en": "其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AL0000",
+        "name": "阿尔巴尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49,
+          41.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DZ0000",
+        "name": "阿尔及利亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08,
+          36.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AS0000",
+        "name": "美属萨摩亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.43,
+          -14.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AO0000",
+        "name": "安哥拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15,
+          -8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AG0000",
+        "name": "安提瓜和巴布达",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.48,
+          17.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AR0000",
+        "name": "阿根廷",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AM0000",
+        "name": "亚美尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AW0000",
+        "name": "阿鲁巴",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02,
+          12.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AU0000",
+        "name": "澳大利亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.08,
+          -35.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AT0000",
+        "name": "奥地利",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.22,
+          48.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AZ0000",
+        "name": "阿塞拜疆",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.56,
+          40.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BS0000",
+        "name": "巴哈马",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          25.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BH0000",
+        "name": "巴林",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3,
+          26.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BB0000",
+        "name": "巴巴多斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3,
+          13.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BY0000",
+        "name": "白俄罗斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          53.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BE0000",
+        "name": "比利时",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21,
+          50.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BZ0000",
+        "name": "伯利兹",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3,
+          17.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BJ0000",
+        "name": "贝宁",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42,
+          6.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BT0000",
+        "name": "不丹",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45,
+          27.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BO0000",
+        "name": "玻利维亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1,
+          -16.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BW0000",
+        "name": "博茨瓦纳",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.57,
+          -24.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BR0000",
+        "name": "巴西",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.55,
+          -15.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VG0000",
+        "name": "英属维尔京群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.37,
+          18.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BN0000",
+        "name": "文莱",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          4.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BG0000",
+        "name": "保加利亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2,
+          42.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BF0000",
+        "name": "布基纳法索",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3,
+          12.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BI0000",
+        "name": "布隆迪",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.18,
+          -3.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KH0000",
+        "name": "柬埔寨",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.55,
+          11.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CM0000",
+        "name": "喀麦隆",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CA0000",
+        "name": "加拿大",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.42,
+          45.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CV0000",
+        "name": "佛得角",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.34,
+          15.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KY0000",
+        "name": "开曼群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24,
+          19.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TD0000",
+        "name": "乍得",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.59,
+          12.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CL0000",
+        "name": "智利",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4,
+          -33.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CO0000",
+        "name": "哥伦比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74,
+          4.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KM0000",
+        "name": "科摩罗",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.16,
+          -11.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CR0000",
+        "name": "哥斯达黎加",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02,
+          9.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CI0000",
+        "name": "科特迪瓦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.17,
+          6.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HR0000",
+        "name": "克罗地亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CU0000",
+        "name": "古巴",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22,
+          23.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CY0000",
+        "name": "塞浦路斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.25,
+          35.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KP0000",
+        "name": "朝鲜",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          39.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DK0000",
+        "name": "丹麦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34,
+          55.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DJ0000",
+        "name": "吉布提",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2,
+          11.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DO0000",
+        "name": "多米尼加",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.24,
+          15.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EC0000",
+        "name": "厄瓜多尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.35,
+          -0.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EG0000",
+        "name": "埃及",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.14,
+          30.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SV0000",
+        "name": "萨尔瓦多",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1,
+          13.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GQ0000",
+        "name": "赤道几内亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5,
+          3.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ER0000",
+        "name": "厄立特里亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.55,
+          15.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EE0000",
+        "name": "爱沙尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48,
+          59.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ET0000",
+        "name": "埃塞俄比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.42,
+          9.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FO0000",
+        "name": "法罗群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.56,
+          62.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FI0000",
+        "name": "芬兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03,
+          60.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FR0000",
+        "name": "法国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2,
+          48.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GF0000",
+        "name": "法属圭亚那",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.18,
+          5.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PF0000",
+        "name": "法属波利尼西亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.34,
+          -17.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GA0000",
+        "name": "加蓬",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26,
+          0.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GM0000",
+        "name": "冈比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4,
+          13.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GE0000",
+        "name": "格鲁吉亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5,
+          41.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DE0000",
+        "name": "德国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25,
+          52.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GH0000",
+        "name": "加纳",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06,
+          5.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR0000",
+        "name": "希腊",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.46,
+          37.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GL0000",
+        "name": "格陵兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.35,
+          64.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GT0000",
+        "name": "危地马拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22,
+          14.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GG0000",
+        "name": "根西岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33,
+          49.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GN0000",
+        "name": "几内亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.49,
+          9.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GW0000",
+        "name": "几内亚比绍",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.45,
+          11.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GY0000",
+        "name": "圭亚那",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.12,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT0000",
+        "name": "海地",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2,
+          18.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HN0000",
+        "name": "洪都拉斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14,
+          14.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HU0000",
+        "name": "匈牙利",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          47.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IS0000",
+        "name": "冰岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.57,
+          64.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IN0000",
+        "name": "印度",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.13,
+          28.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IR0000",
+        "name": "伊朗",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3,
+          35.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IQ0000",
+        "name": "伊拉克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          33.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IE0000",
+        "name": "爱尔兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.15,
+          53.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IL0000",
+        "name": "以色列",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12,
+          31.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IT0000",
+        "name": "意大利",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29,
+          41.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JM0000",
+        "name": "牙买加",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JO0000",
+        "name": "约旦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52,
+          31.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KZ0000",
+        "name": "哈萨克斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3,
+          51.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KE0000",
+        "name": "肯尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.48,
+          -1.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KI0000",
+        "name": "基里巴斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173,
+          1.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KW0000",
+        "name": "科威特",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          29.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KG0000",
+        "name": "吉尔吉斯斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.46,
+          42.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LA0000",
+        "name": "老挝",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.36,
+          17.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LV0000",
+        "name": "拉脱维亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.08,
+          56.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LB0000",
+        "name": "黎巴嫩",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31,
+          33.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LS0000",
+        "name": "莱索托",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          -29.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LR0000",
+        "name": "利比里亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.47,
+          6.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LI0000",
+        "name": "列支敦士登",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          47.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LT0000",
+        "name": "立陶宛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.19,
+          54.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LU0000",
+        "name": "卢森堡",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09,
+          49.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MG0000",
+        "name": "马达加斯加",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.31,
+          -18.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MW0000",
+        "name": "马拉维",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.48,
+          -14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MY0000",
+        "name": "马来西亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.41,
+          3.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MV0000",
+        "name": "马尔代夫",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.28,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ML0000",
+        "name": "马里",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.55,
+          12.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MT0000",
+        "name": "马耳他",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          35.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MR0000",
+        "name": "毛里塔尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3,
+          -20.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MX0000",
+        "name": "墨西哥",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1,
+          19.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MZ0000",
+        "name": "莫桑比克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.32,
+          -25.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MM0000",
+        "name": "缅甸",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2,
+          16.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NA0000",
+        "name": "纳米比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04,
+          -22.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NP0000",
+        "name": "尼泊尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2,
+          27.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL0000",
+        "name": "荷兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.54,
+          52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NC0000",
+        "name": "新喀里多尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.3,
+          -22.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NZ0000",
+        "name": "新西兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.46,
+          -41.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NI0000",
+        "name": "尼加拉瓜",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2,
+          12.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NE0000",
+        "name": "尼日尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06,
+          13.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NG0000",
+        "name": "尼日利亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.32,
+          9.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NF0000",
+        "name": "诺福克岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.43,
+          -45.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MP0000",
+        "name": "北马里亚纳群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45,
+          15.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NO0000",
+        "name": "挪威",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          59.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OM0000",
+        "name": "阿曼",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.36,
+          23.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PK0000",
+        "name": "巴基斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1,
+          33.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PW0000",
+        "name": "帕劳",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.28,
+          7.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PA0000",
+        "name": "巴拿马",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25,
+          9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PG0000",
+        "name": "巴布亚新几内亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.08,
+          -9.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PY0000",
+        "name": "巴拉圭",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3,
+          -25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PE0000",
+        "name": "秘鲁",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PH0000",
+        "name": "菲律宾",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.03,
+          14.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PL0000",
+        "name": "波兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          52.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PT0000",
+        "name": "葡萄牙",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1,
+          38.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PR0000",
+        "name": "波多黎各",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07,
+          18.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QA0000",
+        "name": "卡塔尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35,
+          25.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KR0000",
+        "name": "韩国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          37.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RO0000",
+        "name": "罗马尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RU0000",
+        "name": "俄罗斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35,
+          55.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RW0000",
+        "name": "卢旺达",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04,
+          -1.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KN0000",
+        "name": "圣基茨和尼维斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.43,
+          17.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC0000",
+        "name": "圣卢西亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58,
+          14.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PM0000",
+        "name": "圣皮埃尔和密克隆",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.12,
+          46.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VC0000",
+        "name": "圣文森特和格林纳丁斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1,
+          13.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WS0000",
+        "name": "萨摩亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5,
+          -13.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SM0000",
+        "name": "圣马力诺",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3,
+          43.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ST0000",
+        "name": "圣多美和普林西比",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SA0000",
+        "name": "沙特阿拉伯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42,
+          24.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SN0000",
+        "name": "塞内加尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.29,
+          14.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SL0000",
+        "name": "塞拉利昂",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.17,
+          8.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0000",
+        "name": "斯洛伐克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.07,
+          48.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SI0000",
+        "name": "斯洛文尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33,
+          46.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SB0000",
+        "name": "所罗门群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.57,
+          -9.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SO0000",
+        "name": "索马里",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.25,
+          2.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ES0000",
+        "name": "西班牙",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.45,
+          40.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SD0000",
+        "name": "苏丹",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.35,
+          15.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SR0000",
+        "name": "苏里南",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SZ0000",
+        "name": "斯威士兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.06,
+          -26.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SE0000",
+        "name": "瑞典",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03,
+          59.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CH0000",
+        "name": "瑞士",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.28,
+          46.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TJ0000",
+        "name": "塔吉克斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.48,
+          38.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TH0000",
+        "name": "泰国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35,
+          13.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MK0000",
+        "name": "马其顿",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26,
+          42.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TG0000",
+        "name": "多哥",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2,
+          6.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TO0000",
+        "name": "汤加",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174,
+          -21.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TN0000",
+        "name": "突尼斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11,
+          36.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TR0000",
+        "name": "土耳其",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54,
+          39.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TM0000",
+        "name": "土库曼斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5,
+          38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TV0000",
+        "name": "图瓦卢",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.13,
+          -8.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UG0000",
+        "name": "乌干达",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UA0000",
+        "name": "乌克兰",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.28,
+          50.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AE0000",
+        "name": "阿联酋",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.22,
+          24.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GB0000",
+        "name": "英国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05,
+          51.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TZ0000",
+        "name": "坦桑尼亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45,
+          -6.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "US0000",
+        "name": "美国",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02,
+          39.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VI0000",
+        "name": "美属维尔京群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.56,
+          18.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UY0000",
+        "name": "乌拉圭",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.11,
+          -34.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UZ0000",
+        "name": "乌兹别克斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1,
+          41.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VU0000",
+        "name": "瓦努阿图",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.18,
+          -17.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VE0000",
+        "name": "委内瑞拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.55,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VN0000",
+        "name": "越南",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.55,
+          21.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ZM0000",
+        "name": "赞比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.16,
+          -15.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ZW0000",
+        "name": "津巴布韦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.02,
+          -17.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ZA0000",
+        "name": "南非",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ME0000",
+        "name": "黑山",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MC0000",
+        "name": "摩纳哥",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IM0000",
+        "name": "马恩岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VA0000",
+        "name": "梵蒂冈",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AD0000",
+        "name": "安道尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AX0000",
+        "name": "奥兰群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JE0000",
+        "name": "泽西岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WF0000",
+        "name": "瓦利斯和富图纳",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MN0000",
+        "name": "蒙古国；蒙古",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FJ0000",
+        "name": "斐济群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TK0000",
+        "name": "托克劳",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BD0000",
+        "name": "孟加拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DM0000",
+        "name": "多米尼克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ID0000",
+        "name": "印尼",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SG0000",
+        "name": "新加坡",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2,
+          1.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GI0000",
+        "name": "直布罗陀",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YE0000",
+        "name": "也门",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LY0000",
+        "name": "利比亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BA0000",
+        "name": "波黑",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MD0000",
+        "name": "摩尔多瓦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RS0000",
+        "name": "塞尔维亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PS0000",
+        "name": "巴勒斯坦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SY0000",
+        "name": "叙利亚",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CZ0000",
+        "name": "捷克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          50.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JP0000",
+        "name": "日本",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.46,
+          35.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CD0000",
+        "name": "刚果（金）",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MU0000",
+        "name": "毛里求斯",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CF0000",
+        "name": "中非",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SC0000",
+        "name": "塞舌尔",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MA0000",
+        "name": "摩洛哥",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CG0000",
+        "name": "刚果（布）",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RE0000",
+        "name": "留尼汪",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MH0000",
+        "name": "马绍尔群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AQ0000",
+        "name": "南极洲",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BM0000",
+        "name": "百慕大",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AI0000",
+        "name": "安圭拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GD0000",
+        "name": "格林纳达",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MS0000",
+        "name": "蒙塞拉特岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TC0000",
+        "name": "特克斯和凯科斯群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AF0000",
+        "name": "阿富汗",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TT0000",
+        "name": "特立尼达和多巴哥",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SH0000",
+        "name": "圣赫勒拿",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FM0000",
+        "name": "密克罗尼西亚联邦",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LK0000",
+        "name": "斯里兰卡",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EH0000",
+        "name": "西撒哈拉",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CX0000",
+        "name": "圣诞岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IO0000",
+        "name": "英属印度洋领地",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GU0000",
+        "name": "关岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CK0000",
+        "name": "库克群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NU0000",
+        "name": "纽埃",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TF0000",
+        "name": "法属南部领地",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MQ0000",
+        "name": "马提尼克",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YT0000",
+        "name": "马约特",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SJ0000",
+        "name": "斯瓦尔巴群岛和扬马延岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BV0000",
+        "name": "布韦岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CC0000",
+        "name": "科科斯群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FK0000",
+        "name": "马尔维纳斯群岛（福克兰）",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP0000",
+        "name": "瓜德罗普",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GS0000",
+        "name": "南乔治亚岛和南桑威奇群岛",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UM0000",
+        "name": "美国本土外小岛屿",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MF0000",
+        "name": "法属圣马丁",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NR0000",
+        "name": "瑙鲁",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SS0000",
+        "name": "南苏丹",
+        "name_en": "海外"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     }
   ]
 }
